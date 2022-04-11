@@ -8,7 +8,10 @@
 
 class VinsTest {
     void Test();
+    void test02();
 
+public:
+    VinsTest();
 };
 
 

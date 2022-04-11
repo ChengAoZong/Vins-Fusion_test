@@ -3,3 +3,5 @@
 //
 
 #include "VinsTest.h"
+
+VinsTest::VinsTest() {}
