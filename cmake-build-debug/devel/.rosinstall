@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chengaozong/catkin_ws/src/VINS-Fusion/cmake-build-debug/devel/setup.sh
